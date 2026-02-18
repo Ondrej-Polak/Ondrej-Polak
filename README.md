@@ -47,7 +47,7 @@ Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University
 - Accessible interface: high-contrast mode, text-to-speech, and customizable styles.  
 - Context management for multi-turn conversations; user-tested for usability and ethical content handling.  
 
-> View all my projects on [GitHub](https://github.com/Ondrej-Polak) 🔗
+> View all my projects on [GitHub](https://github.com/Ondrej-Polak?tab=repositories) 🔗
 
 ---
 
