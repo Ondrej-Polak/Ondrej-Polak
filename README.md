@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ondrej
+# 👋 Hi, I'm Ondrej Polak
 
 ## 🌐 About Me
 MSc Cybersecurity Student | BSc Software Engineer | Tech Enthusiast  
