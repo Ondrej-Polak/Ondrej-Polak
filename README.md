@@ -1,28 +1,28 @@
-# Hi, I'm Ondrej 👋
+# 👋 Hi, I'm Ondrej
 
-🌐 MSc Cybersecurity Student | BSc Software Engineer | Tech Enthusiast  
+## 🌐 About Me
+MSc Cybersecurity Student | BSc Software Engineer | Tech Enthusiast  
 
-💫 **About Me**  
-Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University, with a strong foundation in software engineering. Passionate about building secure, efficient, and innovative digital systems, combining software development, AI integration, and practical cybersecurity.
+Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University, with a strong foundation in software engineering. Passionate about building secure, efficient, and innovative digital systems, combining software development, AI integration, and practical cybersecurity skills.
 
 ---
 
-🎓 **Education**  
+## 🎓 Education
 - **MSc Cybersecurity** – Manchester Metropolitan University | Sep 2025 – Sep 2026  
 - **BSc (Hons) Software Engineering** – Grade 2:1 | Sep 2021 – Jul 2024  
 - **Level 3 BTEC Extended IT** – Bolton VI Form College | Grade D*D*D* | Sep 2019 – Jul 2021  
 
 ---
 
-💻 **Tech & Tools**  
+## 💻 Tech & Tools
 **Languages:** Java, JavaScript, Python, Golang, C, R, Haskell, Pascal  
 **Frameworks / Platforms:** React, Node.js, Vue.js, AWS, GCP, REST APIs  
 **Tools:** VS Code, IntelliJ, Eclipse, Visual Studio, Postman, Git  
 
 ---
 
-📂 **Highlighted Projects**  
-### AI Bible Chatbot  
+## 📂 Highlighted Projects
+### AI Bible Chatbot
 💡 **Stack:** Python, Flask, HTML, CSS, JavaScript, OpenAI GPT-3.5-turbo API  
 - Flask-based chatbot for interacting with Biblical content using natural language.  
 - Integrated GPT-3.5-turbo API for context-aware, theologically relevant responses.  
@@ -33,23 +33,5 @@ Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University
 
 ---
 
-🌐 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/ondrej-polak2002/)  
-
----
-
-📊 **GitHub Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ondrej-Polak&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ondrej-Polak&theme=radical)  
-
----
-
-🌱 **Current Focus**  
-- Penetration testing & network security  
-- Cloud security (AWS, GCP)  
-- AI-powered secure tools  
-
----
-
-✍️ **Quote of the Day**  
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
+## 🌐 Let's Connect
+[!]()
