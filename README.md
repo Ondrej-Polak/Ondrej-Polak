@@ -34,4 +34,16 @@ Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University
 ---
 
 ## 🌐 Let's Connect
-[!]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ondrej-polak2002/)
+
+---
+
+## 🌱 Current Focus
+- Penetration testing & network security  
+- Cloud security (AWS, GCP)  
+- AI-powered secure tools  
+
+---
+
+## ✍️ Quote of the Day
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
