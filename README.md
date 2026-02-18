@@ -46,4 +46,4 @@ Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University
 ---
 
 ## ✍️ Quote of the Day
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?theme=dark)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?theme=monokai)
