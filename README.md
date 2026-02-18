@@ -10,8 +10,7 @@ Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University
 ## 🎓 Education
 - **MSc Cyber Security** – Manchester Metropolitan University | Sep 2025 – Sep 2026  
 - **BSc (Hons) Software Engineering** – Manchester Metropolitan University | Grade 2:1 | Sep 2021 – Jul 2024  
-- **Level 3 BTEC Extended IT** – Bolton VI Form College | Grade Triple Distinction Star | Sep 2019 – Jul 2021
-  
+- **Level 3 BTEC Extended IT** – Bolton VI Form College | Grade Triple Distinction | Sep 2019 – Jul 2021
 
 ---
 
@@ -36,6 +35,11 @@ Currently pursuing my MSc in Cybersecurity at Manchester Metropolitan University
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white) 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+
+---
+
+## 🛡️ Cybersecurity Skills
+> 🔧 Coming soon – section under development
 
 ---
 
